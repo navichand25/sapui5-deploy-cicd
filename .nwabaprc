@@ -3,8 +3,8 @@
     "conn_server": "http://34.93.85.167:50000",
     "conn_user": "developer",
     "conn_password": "Ldtf5432",
-    "abap_package": "ZNAVEEN",
-    "abap_bsp": "ZZ_UI5_DEPLOY",
-    "abap_transport":"A4HK900072",
+    "abap_package": "Z_Fiori",
+    "abap_bsp": "ZZ_UI5_Fiori",
+    "abap_transport":"A4HK900074",
     "abap_bsp_text": "UI5 upload from VsCode using CI CD Pipeline"
 }
