@@ -2,7 +2,7 @@
     "base": "./dist",
     "conn_server": "http://34.93.85.167:50000",
     "conn_user": "developer",
-    "conn_password": "Ldtf5432",
+    "conn_password": "",
     "abap_package": "Z_FIORI",
     "abap_bsp": "ZZ_UI5_FIORI",
     "abap_transport":"A4HK900074",
