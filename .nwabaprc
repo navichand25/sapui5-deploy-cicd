@@ -5,6 +5,6 @@
     "conn_password": "Ldtf5432",
     "abap_package": "ZNAVEEN",
     "abap_bsp": "ZZ_UI5_DEPLOY",
-    "abap_transport":"A4HK900070",
+    "abap_transport":"A4HK900072",
     "abap_bsp_text": "UI5 upload from VsCode using CI CD Pipeline"
 }
