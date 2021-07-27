@@ -9,8 +9,8 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content />
-					<Text text="Testing TR"></Text>
-					<Text text="Testing TR with TR A4HK900068"></Text>
+	
+				<Text text="Testing TR with TR A4HK900072"></Text>
 				</Page>
 			</pages>
 		</App>
