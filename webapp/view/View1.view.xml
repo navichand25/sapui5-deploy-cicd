@@ -10,6 +10,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content />
 					<Text text="Testing TR"></Text>
+					<Text text="Testing TR Again"></Text>
 				</Page>
 			</pages>
 		</App>
